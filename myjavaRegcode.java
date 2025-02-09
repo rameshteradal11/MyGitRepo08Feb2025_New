@@ -6,4 +6,10 @@
 
 My manager new work
 managre code for the myjavapage
+1st Day code for registration page
+2nd day code for registration page
+3rd day code for tregistration page
+4th day code for regristartion page
+5th day code for registration page
 
+Done.
